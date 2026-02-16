@@ -35,17 +35,6 @@ Estou em busca da minha primeira oportunidade de **estágio na área de desenvol
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=coutinhojs&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=coutinhojs&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 
 ## 📫 Contato
 
