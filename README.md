@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Coutinho</h1>
 
-<!--
-**coutinhojs/coutinhojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor Fullstack em formação <br>
+  🎓 Análise e Desenvolvimento de Sistemas - UEPB (João Pessoa) <br>
+  🚀 Buscando oportunidade de Estágio em Desenvolvimento
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou **Técnico em Informática para Internet** e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+
+Tenho foco em desenvolvimento **Fullstack**, criando aplicações web completas, desde a interface até o banco de dados.
+
+Estou em busca da minha primeira oportunidade de **estágio na área de desenvolvimento**, onde eu possa evoluir tecnicamente, contribuir com projetos reais e crescer profissionalmente.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode" />
+
+</div>
+
+### 💡 Stack Principal
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** PHP  
+- **Banco de Dados:** MySQL  
+- **Versionamento:** Git & GitHub  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=coutinhojs&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=coutinhojs&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Linguagens mais utilizadas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinhojs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/marcos-c-610113354">
+  <img src="https://img.shields.io/badge/LinkedIn-Marcos_Coutinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:coutinhoprog@gmail.com">
+  <img src="https://img.shields.io/badge/Email-coutinhoprog@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco uma oportunidade como **Desenvolvedor Fullstack Estagiário**, onde eu possa:
+
+✔ Aplicar meus conhecimentos em projetos reais  
+✔ Trabalhar em equipe e aprender com desenvolvedores experientes  
+✔ Evoluir constantemente minhas habilidades técnicas  
+✔ Contribuir para o crescimento da empresa  
+
+---
+
+<p align="center">
+  <i>"Disciplina, prática e evolução constante."</i>
+</p>
