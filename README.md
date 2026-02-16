@@ -46,7 +46,6 @@ Estou em busca da minha primeira oportunidade de **estágio na área de desenvol
 
 ---
 
----
 
 ## 📫 Contato
 
