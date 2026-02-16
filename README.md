@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor Fullstack em formação <br>
   🎓 Análise e Desenvolvimento de Sistemas - UEPB (João Pessoa) <br>
-  🚀 Buscando oportunidade de Estágio em Desenvolvimento
+  🚀 Foco em desenvolvimento de aplicações web
 </p>
 
 ---
