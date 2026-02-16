@@ -46,14 +46,6 @@ Estou em busca da minha primeira oportunidade de **estágio na área de desenvol
 
 ---
 
-## 📈 Linguagens mais utilizadas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutinhojs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ---
 
 ## 📫 Contato
