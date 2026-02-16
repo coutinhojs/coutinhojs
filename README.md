@@ -1,4 +1,7 @@
-<h1 align="center">Olá 👋, eu sou o Coutinho</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Marcos+Coutinho;Bem-vindo+ao+meu+portfólio)](https://git.io/typing-svg)
+
+
+---
 
 <p align="center">
   💻 Desenvolvedor Fullstack em formação <br>
@@ -10,30 +13,33 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Técnico em Informática para Internet** e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+Sou **Técnico em Informática para Internet** e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
+Tenho foco em desenvolvimento **Fullstack**, criando aplicações web completas, desde a interface até o banco de dados.  
 
-Tenho foco em desenvolvimento **Fullstack**, criando aplicações web completas, desde a interface até o banco de dados.
-
-Estou em busca da minha primeira oportunidade de **estágio na área de desenvolvimento**, onde eu possa evoluir tecnicamente, contribuir com projetos reais e crescer profissionalmente.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode" />
-
-</div>
-
-### 💡 Stack Principal
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** PHP  
-- **Banco de Dados:** MySQL  
-- **Versionamento:** Git & GitHub  
+Busco minha primeira oportunidade de **estágio na área de desenvolvimento**, onde eu possa evoluir tecnicamente, contribuir com projetos reais e crescer profissionalmente.
 
 ---
+## 🛠️ Tecnologias e Stack Principal
+
+<p align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<br>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+
 
 ## 📫 Contato
 
@@ -47,8 +53,8 @@ Estou em busca da minha primeira oportunidade de **estágio na área de desenvol
   <img src="https://img.shields.io/badge/Email-coutinhoprog@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
 
+</p>
 
 ---
 
