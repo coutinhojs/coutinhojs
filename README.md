@@ -52,17 +52,6 @@ Estou em busca da minha primeira oportunidade de **estágio na área de desenvol
 
 ---
 
-## 🎯 Objetivo Profissional
-
-Busco uma oportunidade como **Desenvolvedor Fullstack Estagiário**, onde eu possa:
-
-✔ Aplicar meus conhecimentos em projetos reais  
-✔ Trabalhar em equipe e aprender com desenvolvedores experientes  
-✔ Evoluir constantemente minhas habilidades técnicas  
-✔ Contribuir para o crescimento da empresa  
-
----
-
 <p align="center">
   <i>"Disciplina, prática e evolução constante."</i>
 </p>
