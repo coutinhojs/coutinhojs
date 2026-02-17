@@ -38,6 +38,11 @@ Busco minha primeira oportunidade de **estágio na área de desenvolvimento**, o
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
+<p align="center">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif" width="250"/>
+</p>
+
+
 
 
 
