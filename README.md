@@ -42,8 +42,11 @@ Busco minha primeira oportunidade de **estágio na área de desenvolvimento**, o
 
 
 ## 📫 Contato
-
 <p align="center">
+
+<a href="https://coutinhojs.github.io/portfolio1/">
+  <img src="https://img.shields.io/badge/Portfolio-Marcos_Coutinho-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/marcos-c-610113354">
   <img src="https://img.shields.io/badge/LinkedIn-Marcos_Coutinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -52,7 +55,6 @@ Busco minha primeira oportunidade de **estágio na área de desenvolvimento**, o
 <a href="mailto:coutinhoprog@gmail.com">
   <img src="https://img.shields.io/badge/Email-coutinhoprog@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 
 </p>
 
