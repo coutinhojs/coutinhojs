@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  💻 Desenvolvedor Fullstack em formação <br>
+  💻 Desenvolvedor Fullstack <br>
   🎓 Análise e Desenvolvimento de Sistemas - UEPB (João Pessoa) <br>
   🚀 Foco em desenvolvimento de aplicações web
 </p>
