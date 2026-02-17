@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Marcos+Coutinho;Bem-vindo+ao+meu+portfólio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=900&color=00CFFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Marcos+Coutinho;Bem-vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 
 ---
