@@ -6,7 +6,7 @@
 
 ```diff
 
-< Hi, I'm Marcos Coutinho
+< Hi, I'm Marcos Coutinho **English/Portuguese**
 
 > Systems Analysis and Development at UEPB
 > Web Developer | Frontend & Backend | Web Development Student
