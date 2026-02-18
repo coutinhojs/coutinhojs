@@ -4,19 +4,17 @@
 
 <img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif" width="190"/>
 
+```diff
 
+< Hi, I'm Marcos Coutinho
 
-```bash
+> Systems Analysis and Development at UEPB
+> Web Developer | Frontend & Backend | Web Development Student
 
-
-# 👨‍💻 Marcos Coutinho **Desenvolvedor Fullstack**
-  ## 🎓 Educação - Técnico em Informática para Internet - Análise e Desenvolvimento de Sistemas — UEPB
- ## 🎯 Objetivo Conquistar minha primeira oportunidade de estágio
-## 🔎 Foco Aprender continuamente, explorar novas tecnologias e criar soluções práticas e eficientes.
-
-
-
+! turning coffee into code ☕
+! fixing bugs I created myself
 ```
+
 <h1 align="center">
   
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -28,4 +26,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</h1>
+
+
+## 🔗 Contato
+<h1 align="center">
+<a href="https://coutinhojs.github.io/portfolio1/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/marcos-c-610113354" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:coutinhoprog@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
