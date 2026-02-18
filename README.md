@@ -12,7 +12,6 @@
 > Desenvolvedor Web | Frontend & Backend | Estudante de Desenvolvimento Web
 
 ! transformando café em código ☕
-! corrigindo bugs que eu mesmo criei
 ```
 
 <h1 align="center">
