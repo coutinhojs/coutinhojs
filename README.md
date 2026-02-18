@@ -14,8 +14,8 @@
 ! transformando café em código ☕
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela UEPB e Técnico em Informática para
-Internet, com foco em desenvolvimento web Fullstack. Busco minha primeira oportunidade
-de estágio em desenvolvimento,com o objetivo de aprender na prática, contribuir com projetos reais e crescer profissionalmente.
+Internet, com foco em desenvolvimento web Fullstack.
+ Busco minha primeira oportunidade de estágio em desenvolvimento.
 ```
 
 <h1 align="center">
