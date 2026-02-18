@@ -15,7 +15,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela UEPB e Técnico em Informática para
 Internet, com foco em desenvolvimento web Fullstack.
- Busco minha primeira oportunidade de estágio em desenvolvimento.
+         Busco minha primeira oportunidade de estágio em desenvolvimento.
 ```
 
 <h1 align="center">
