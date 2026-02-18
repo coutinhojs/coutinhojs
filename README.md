@@ -5,15 +5,7 @@
 <img align="right" src="https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif" width="190"/>
 
 ```diff
-**English/Portuguese**
 
-< Hi, I'm Marcos Coutinho 
-
-> Systems Analysis and Development at UEPB
-> Web Developer | Frontend & Backend | Web Development Student
-
-! turning coffee into code ☕
---------------------------------------------------------
 < Olá, eu sou Marcos Coutinho 
 
 > Análise e Desenvolvimento de Sistemas — UEPB
