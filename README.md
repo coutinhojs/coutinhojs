@@ -12,6 +12,10 @@
 > Desenvolvedor Web | Frontend & Backend | Estudante de Desenvolvimento Web
 
 ! transformando café em código ☕
+
+Sou estudante de Análise e Desenvolvimento de Sistemas pela UEPB e Técnico em Informática para
+Internet, com foco em desenvolvimento web Fullstack. Busco minha primeira oportunidade
+de estágio em desenvolvimento,com o objetivo de aprender na prática, contribuir com projetos reais e crescer profissionalmente.
 ```
 
 <h1 align="center">
@@ -42,4 +46,12 @@
 </a>
 
 
-<a>Nunca Desista
+
+
+
+
+
+
+
+
+![motto](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Consistência+hoje,+evolução+amanhã.)
