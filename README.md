@@ -31,7 +31,7 @@ Internet, com foco em desenvolvimento web Fullstack.
 
 
 
-## 🔗 Contato/Meus perfis
+##  Contato/Meus perfis
 <h1 align="center">
 <a href="https://coutinhojs.github.io/portfolio1/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white">
