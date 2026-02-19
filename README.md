@@ -9,7 +9,8 @@
  Olá, eu sou Marcos Coutinho 
 
 > Análise e Desenvolvimento de Sistemas — UEPB
-> Desenvolvedor Web | Frontend & Backend | Estudante de Desenvolvimento Web
+> Full-Stack Web Developer
+> Web • APIs • Integrações
 
 ! transformando café em código ☕
 
@@ -17,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela UEPB e Técnico em 
 
 Busco minha primeira oportunidade de estágio em desenvolvimento.
 - Freelancer
-- Fullstack
+
 ```
 
 <h1 align="center">
