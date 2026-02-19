@@ -11,13 +11,14 @@
 > Análise e Desenvolvimento de Sistemas — UEPB
 > Full-Stack Web Developer
 > Web • APIs • Integrações
+- Freelancer
 
 ! transformando café em código ☕
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela UEPB e Técnico em Informática para Internet
 
 Busco minha primeira oportunidade de estágio em desenvolvimento.
-- Freelancer
+
 
 ```
 
