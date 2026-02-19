@@ -6,7 +6,7 @@
 
 ```diff
 
-< Olá, eu sou Marcos Coutinho 
+ Olá, eu sou Marcos Coutinho 
 
 > Análise e Desenvolvimento de Sistemas — UEPB
 > Desenvolvedor Web | Frontend & Backend | Estudante de Desenvolvimento Web
