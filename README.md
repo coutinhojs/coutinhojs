@@ -8,9 +8,9 @@
 
  Olá, eu sou Marcos Coutinho 
 
-> Análise e Desenvolvimento de Sistemas — UEPB
+> Systems Analysis and Development — UEPB
 > Full-Stack Web Developer
-> Web • APIs • Integrações
+> Web • APIs • Integrations
 - Freelancer
 
 ! transformando café em código ☕
